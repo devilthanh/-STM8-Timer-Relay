@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<settings>
+    <Stack>
+        <FillEnabled>0</FillEnabled>
+        <OverflowWarningsEnabled>1</OverflowWarningsEnabled>
+        <WarningThreshold>90</WarningThreshold>
+        <SpWarningsEnabled>1</SpWarningsEnabled>
+        <WarnLogOnly>1</WarnLogOnly>
+        <UseTrigger>1</UseTrigger>
+        <TriggerName>main</TriggerName>
+        <LimitSize>0</LimitSize>
+        <ByteLimit>50</ByteLimit>
+    </Stack>
+    <DebugChecksum>
+        <Checksum>1143087948</Checksum>
+    </DebugChecksum>
+    <CallStack>
+        <ShowArgs>0</ShowArgs>
+    </CallStack>
+    <Disassembly>
+        <MixedMode>1</MixedMode>
+    </Disassembly>
+    <DataSample>
+        <LogEnabled>0</LogEnabled>
+        <GraphEnabled>0</GraphEnabled>
+        <ShowTimeLog>1</ShowTimeLog>
+    </DataSample>
+    <TermIOLog>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ ""</LogFile>
+    </TermIOLog>
+    <LogFile>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ ""</LogFile>
+        <Category>_ 0</Category>
+    </LogFile>
+    <Breakpoints>
+        <Count>0</Count>
+    </Breakpoints>
+    <Aliases>
+        <A0>_ "D:\Dropbox\Code WorkSpace\STM8\IAR_Delay_Relay\main.c" ""</A0>
+        <A1>_ "D:\Dropbox\Code WorkSpace\STM8\IAR_Delay_Relay\src\stm8s_clk.c" ""</A1>
+        <A2>_ "D:\Dropbox\Code WorkSpace\STM8\IAR_Delay_Relay\src\stm8s_flash.c" ""</A2>
+        <A3>_ "D:\Dropbox\Code WorkSpace\STM8\IAR_Delay_Relay\src\stm8s_gpio.c" ""</A3>
+        <A4>_ "D:\Dropbox\Code WorkSpace\STM8\IAR_Delay_Relay\src\stm8s_tim4.c" ""</A4>
+        <A5>_ "D:\Dropbox\Code WorkSpace\STM8\IAR_Delay_Relay\stm8s_it.c" ""</A5>
+        <Count>6</Count>
+        <SuppressDialog>0</SuppressDialog>
+    </Aliases>
+    <DebuggerSettings>
+        <DisableInterruptsWhenStepping>0</DisableInterruptsWhenStepping>
+        <LeaveTargetRunning>0</LeaveTargetRunning>
+    </DebuggerSettings>
+</settings>

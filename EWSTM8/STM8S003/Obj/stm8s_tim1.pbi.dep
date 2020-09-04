@@ -1,0 +1,23 @@
+stm8s_tim1.pbi: \
+  F:\Dropbox\Code\ WorkSpace\STM8\IAR_Delay_Relay\src\stm8s_tim1.c \
+  F:\Dropbox\Code\ WorkSpace\STM8\IAR_Delay_Relay\EWSTM8\..\inc\stm8s_tim1.h \
+  F:\Dropbox\Code\ WorkSpace\STM8\IAR_Delay_Relay\EWSTM8\..\inc/stm8s.h \
+  F:\Dropbox\Code\ WorkSpace\STM8\IAR_Delay_Relay\EWSTM8\..\stm8s_conf.h \
+  F:\Dropbox\Code\ WorkSpace\STM8\IAR_Delay_Relay\EWSTM8\..\inc\stm8s.h \
+  F:\Dropbox\Code\ WorkSpace\STM8\IAR_Delay_Relay\EWSTM8\..\inc\stm8s_adc1.h \
+  F:\Dropbox\Code\ WorkSpace\STM8\IAR_Delay_Relay\EWSTM8\..\inc\stm8s_awu.h \
+  F:\Dropbox\Code\ WorkSpace\STM8\IAR_Delay_Relay\EWSTM8\..\inc\stm8s_beep.h \
+  F:\Dropbox\Code\ WorkSpace\STM8\IAR_Delay_Relay\EWSTM8\..\inc\stm8s_clk.h \
+  F:\Dropbox\Code\ WorkSpace\STM8\IAR_Delay_Relay\EWSTM8\..\inc\stm8s_exti.h \
+  F:\Dropbox\Code\ WorkSpace\STM8\IAR_Delay_Relay\EWSTM8\..\inc\stm8s_flash.h \
+  F:\Dropbox\Code\ WorkSpace\STM8\IAR_Delay_Relay\EWSTM8\..\inc\stm8s_gpio.h \
+  F:\Dropbox\Code\ WorkSpace\STM8\IAR_Delay_Relay\EWSTM8\..\inc\stm8s_i2c.h \
+  F:\Dropbox\Code\ WorkSpace\STM8\IAR_Delay_Relay\EWSTM8\..\inc\stm8s_itc.h \
+  F:\Dropbox\Code\ WorkSpace\STM8\IAR_Delay_Relay\EWSTM8\..\inc\stm8s_iwdg.h \
+  F:\Dropbox\Code\ WorkSpace\STM8\IAR_Delay_Relay\EWSTM8\..\inc\stm8s_rst.h \
+  F:\Dropbox\Code\ WorkSpace\STM8\IAR_Delay_Relay\EWSTM8\..\inc\stm8s_spi.h \
+  F:\Dropbox\Code\ WorkSpace\STM8\IAR_Delay_Relay\EWSTM8\..\inc\stm8s_tim2.h \
+  F:\Dropbox\Code\ WorkSpace\STM8\IAR_Delay_Relay\EWSTM8\..\inc\stm8s_tim4.h \
+  F:\Dropbox\Code\ WorkSpace\STM8\IAR_Delay_Relay\EWSTM8\..\inc\stm8s_uart1.h \
+  F:\Dropbox\Code\ WorkSpace\STM8\IAR_Delay_Relay\EWSTM8\..\inc\stm8s_wwdg.h \
+  D:\Softwares\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h
